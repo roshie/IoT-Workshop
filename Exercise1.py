@@ -19,4 +19,4 @@ display.text(Temperature, 15, 35, 1)
 display.text(Weather, 15, 45, 1)
 
 display.show()
-# Attached Snap as 'Exercise1.jpg'
+# Attached Snap as 'Exercise1.jpeg'
